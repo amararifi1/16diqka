@@ -27,12 +27,12 @@ div.info{
     width: 500px;
     height: 500px;
     display: inline-block;
-    background-position: 0px 0px;
+    background-position: 500px 500px;
 }
 
 .shadow{
     width: 500px;
     height: 500px;
     display: inline-block;
-    background-position: 0px 0px;
+    background-position: -500px -500px;
 }
